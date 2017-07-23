@@ -1,2 +1,2 @@
 # Hello-world
-Share my ideas
+This repository is a host place to share my ideas
